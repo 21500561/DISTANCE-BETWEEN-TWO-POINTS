@@ -19,8 +19,9 @@ print("{:.2f}".format(distance))
 ```
 
 
-### OUTPUT:
-![OUTPUT](dis between 2 pnts output.PNG)
+### OUTPUT:![dis between 2 pnts output](https://user-images.githubusercontent.com/94219798/144701117-a2baacd8-8519-45a6-aefa-9ba817226431.PNG)
+
+
 
 
 ### RESULT:
